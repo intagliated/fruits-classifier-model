@@ -16,8 +16,8 @@ https://github.com/jaistarx/Fruits-classifier-frontend
 ```
 
 ## Team members
-Anamika Prakash
-Maria Paul T
+Anamika Prakash \
+Maria Paul T \
 jaison j
 
 ## Team ID
