@@ -3,7 +3,7 @@
 ## Fruit classifier
 This project aims at classifying fruits, specifically mango and jackfruit.
 This documentation includes the features that are implemented and the sequence of tasks that were performed.
-- Selection of Data Set from Kaggle 
+- Selection of Data Set from Kaggle [https://www.kaggle.com/fayazazeem/mangojackfruit] 
 - Filtering Data 
 - Training Data
 - Image classification
