@@ -9,12 +9,12 @@
 
 ## Technologies used
 
-FRONTEND: \
-- HTML \
-- CSS \
-- Javascript\
+FRONTEND: 
+- HTML 
+- CSS 
+- Javascript
 
-MACHINE LEARNING MODEL: \
+MACHINE LEARNING MODEL: 
 - Google collab
 
 
