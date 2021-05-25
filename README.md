@@ -1,4 +1,4 @@
-# fruits-classifier-model
+# JACKFRUIT MANGO CLASSIFIER
 
 
 
@@ -7,7 +7,15 @@
 
 
 
+## Technologies used
 
+FRONTEND: \
+- HTML \
+- CSS \
+- Javascript\
+
+MACHINE LEARNING MODEL: \
+- Google collab
 
 
 ## Frontend
