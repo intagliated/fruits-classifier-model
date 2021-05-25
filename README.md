@@ -1,14 +1,14 @@
 # JACKFRUIT MANGO CLASSIFIER
 
 ## Fruit classifier
-This project aims at classifying fruits, specifically mango and jackfruit.This model is basically a sqquential image classifier machine learning model , which tries to predict whether its a jackfruit or a mango . 
+This project aims at classifying fruits, specifically mango and jackfruit.This model is basically a sequential image classifier machine learning model , which tries to predict whether its a jackfruit or a mango . 
 This documentation includes the features that are implemented and the sequence of tasks that were performed.
 - Selection of Data Set from Kaggle [https://www.kaggle.com/fayazazeem/mangojackfruit] 
 - Filtering Data 
 - Training Data
 - Image classification
 
-The model has an accuracy of `90.75 %` and a loss of 29.15%
+The model has an accuracy of `90.75 %` and a loss of `29.15%`
 
 
 ## Technologies used
