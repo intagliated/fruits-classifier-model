@@ -8,7 +8,7 @@ This documentation includes the features that are implemented and the sequence o
 - Training Data
 - Image classification
 
-The model has an accuracy of ### [ 90.75 % ] and a loss of 29.15%
+The model has an accuracy of `90.75 %` and a loss of 29.15%
 
 
 ## Technologies used
