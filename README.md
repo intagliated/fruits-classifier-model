@@ -11,6 +11,7 @@ This documentation includes the features that are implemented and the sequence o
 The model has an accuracy of `90.75 %` and a loss of `29.15%`
 
 
+<!-- 
 ## Technologies used
 
 FRONTEND: 
@@ -20,7 +21,7 @@ FRONTEND:
 
 MACHINE LEARNING MODEL: 
 - Google collab
-
+-->
 
 ## Frontend
 ```
