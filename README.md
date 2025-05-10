@@ -1,4 +1,4 @@
-# JACKFRUIT MANGO CLASSIFIER
+# Jackfruit Mango Classifier
 
 ## JACGO
 This project aims at classifying fruits, specifically mango and jackfruit.This model is basically a sequential image classifier machine learning model , which tries to predict whether its a jackfruit or a mango . 
